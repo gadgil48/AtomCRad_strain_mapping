@@ -7,3 +7,4 @@ Python pre-requisites:
   * numpy
   * matplotlib
   * scipy
+  * logging
